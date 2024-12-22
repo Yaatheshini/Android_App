@@ -1,6 +1,6 @@
-# trojan0_horse
-
 # Event Lottery System Application
+
+*This project was developed collaboratively with 5 other students as part of a course.*
 
 ## Description  
 The **Event Lottery System Application** is a simple, attractive, and accessible Android application designed to provide a fair and convenient way for individuals to sign up for community events. The system utilizes a lottery mechanism to allocate event spots, ensuring inclusivity and removing the pressure of first-come, first-served systems. It is built to be flexible and extendable, accommodating future enhancements or migrations.
