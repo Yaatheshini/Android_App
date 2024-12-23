@@ -47,13 +47,22 @@ Insert appropriate Google API Key in:
 - **Manage Profile**: Update personal details and upload/remove profile pictures.  
 - **Receive Notifications**: Get notified of lottery outcomes and event updates.  
 
+![Uploading CMPUT301F24trojan0_UI_explained-Page-2.drawio.png…]()
+
+
 ### Organizers  
 - **Create Events**: Define event details, manage entrants, and handle lotteries.  
 - **Notifications**: Notify entrants of their selection status or event changes.  
 
+![CMPUT301F24trojan0_UI_explained-Page-3 drawio](https://github.com/user-attachments/assets/02d346ce-91c7-4c91-8f4e-4a036b9b184c)
+
+
 ### Administrators  
 - **Content Management**: Remove events, profiles, and images that violate app policies.  
 - **Event Monitoring**: Browse and manage events, profiles, and images in the app.  
+
+![CMPUT301F24trojan0_UI_explained-Page-1 drawio (1)](https://github.com/user-attachments/assets/ed07c075-4e58-40b7-b586-17f1750ba818)
+
 
 ---
 
