@@ -47,7 +47,7 @@ Insert appropriate Google API Key in:
 - **Manage Profile**: Update personal details and upload/remove profile pictures.  
 - **Receive Notifications**: Get notified of lottery outcomes and event updates.  
 
-![Uploading CMPUT301F24trojan0_UI_explained-Page-2.drawio.png…]()
+![CMPUT301F24trojan0_UI_explained-Page-2 drawio](https://github.com/user-attachments/assets/4c62af4a-685f-4d6e-bf6f-585f2f22a7d7)
 
 
 ### Organizers  
